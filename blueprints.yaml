@@ -220,7 +220,6 @@ form:
 
             blacklist_ldap_fields:
               type: array
-              type: array
               value_only: true
               label: PLUGIN_LOGIN_LDAP.BLACKLIST_FIELDS
               help: PLUGIN_LOGIN_LDAP.BLACKLIST_FIELDS_HELP
