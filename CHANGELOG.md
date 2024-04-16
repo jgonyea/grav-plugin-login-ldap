@@ -1,3 +1,11 @@
+# v1.1.0
+## 04/16/2024
+
+1. [](#improved)
+     * Stop event propagation on empty username [#27](https://github.com/trilbymedia/grav-plugin-login-ldap/pulls/27)
+     * Add LDAP configuration example for Active Directory [#19](https://github.com/trilbymedia/grav-plugin-login-ldap/pulls/19)
+     * Fix plugin installation under PHP 8.1 [#31](https://github.com/trilbymedia/grav-plugin-login-ldap/pulls/31)
+
 # v1.0.2
 ## 11/16/2020
 
